@@ -29,6 +29,16 @@ const projects = [
     github: "",
     live: "",
   },
+
+  {
+    id: 4,
+    title: "Spam Message Detection",
+    description:
+      "Spam Message Detection is a Machine Learning project built using Python that analyzes and classifies incoming messages or emails as Spam or Ham (legitimate). It uses natural language processing (NLP) techniques and classification algorithms to detect fraudulent messages.",
+    technologies: ["Python", "Scikit-Learn", "NLTK", "Pandas", "Flask"],
+    github: "https://github.com/Satyamkumar195/your-repo-name",
+    live: "",
+  },
 ];
 
 export default projects;
