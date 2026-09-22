@@ -2,15 +2,15 @@
 
 :root {
   --ink: #eef2ff;
-  --muted: #aab5cf;
-  --canvas: #091124;
-  --surface: #111b32;
-  --surface-raised: #17223c;
-  --stroke: rgba(160, 177, 222, 0.11);
-  --accent: #8580ff;
-  --accent-soft: rgba(133, 128, 255, 0.16);
-  --cyan: #63d2ff;
-  --shadow: 0 18px 45px rgba(0, 0, 0, 0.22);
+  --muted: #91a5d3;
+  --canvas: #070d1b;
+  --surface: #101728;
+  --surface-raised: #232e47;
+  --stroke: rgba(125, 155, 237, 0.11);
+  --accent: #7975f7;
+  --accent-soft: rgba(146, 142, 255, 0.16);
+  --cyan: #4bcbfd;
+  --shadow: 0 18px 45px rgba(49, 1, 1, 0.22);
 }
 * {
   box-sizing: border-box;
@@ -44,7 +44,7 @@ nav {
   justify-content: space-between;
   padding: 0 max(24px, calc((100% - 1160px) / 2));
   border-bottom: 1px solid var(--stroke);
-  background: rgba(9, 17, 36, 0.86);
+  background: rgba(9, 15, 31, 0.86);
   backdrop-filter: blur(16px);
 }
 .logo {
