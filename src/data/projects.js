@@ -6,7 +6,7 @@ const projects = [
     description:
       "The India Technology Guide is a full-stack technology blogging platform where users can discover, read, search, and interact with technology articles. It includes secure authentication, article publishing, categories and tags, likes, bookmarks, comments, content sharing, and a rich-text editor for creating and managing articles.",
     technologies: ["React", "Node.js", "Express.js", "MySQL"],
-    github: "https://github.com/Santoshgupta1619/Blog_App",
+    github: "",
     live: "",
   },
 
@@ -26,7 +26,7 @@ const projects = [
     description:
       "URL Abuse Prevention is a web-based security application that analyzes URLs and helps users identify potentially malicious, phishing, or unsafe links. The application integrates external security APIs to evaluate URL risk and provides users with a risk assessment before they visit a suspicious website.",
     technologies: ["React", "Node.js", "Express.js", "MongoDB"],
-    github: "https://github.com/Santoshgupta1619/url-abuse-prevention",
+    github: "",
     live: "",
   },
 ];
